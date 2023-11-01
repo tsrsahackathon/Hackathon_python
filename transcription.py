@@ -56,3 +56,6 @@ while (True):
 var = response
 print(var)
 
+
+file = open ("transcript.txt", "w")
+file.writelines(var)
