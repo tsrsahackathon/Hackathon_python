@@ -1,5 +1,5 @@
 import transcription
-import summarizationandgpt
+import summarization
 
 transcription
-summarizationandgpt
+summarization
